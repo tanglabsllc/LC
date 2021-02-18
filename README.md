@@ -1,2 +1,2 @@
-# LC
-Leetcode
+# lc-java
+LeetCode in Java
